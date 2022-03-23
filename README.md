@@ -1,12 +1,13 @@
 ```python
 #!/usr/bin/python
-class SoftwareEngineer:
+class TWISTX7:
     def __init__(self):
-        self.name = "Python Dev"
+        self.name = "TWISTX7"
+        self.role = "Python Dev"
         self.language_spoken = ["fr_FR", "en_US", "ar_AR",]
     def say_hi(self):
         print("Hope you find some of my work interesting.")
-me = SoftwareEngineer()
+me = TWISTX7()
 me.say_hi()
 ```
 
