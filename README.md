@@ -1,5 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="logo.gif" height="175px"/></a>
 
+#
+<p align=center>
+<a href="https://discord.com/users/833293196665815062">
+<img src="https://discord.c99.nl/widget/theme-4/833293196665815062.png" width=60%>
+</a>
+  </p>
+
 ```python
 #!/usr/bin/python
 class TWISTX7:
@@ -59,13 +66,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/WireGuard-88171A?logo=WireGuard&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&logoColor=white)
-#
-<p align=center>
-<a href="https://discord.com/users/833293196665815062">
-<img src="https://discord.c99.nl/widget/theme-4/833293196665815062.png" width=60%>
-</a>
-  </p>
-
 
 ## Credits 
 - [JMiki](https://github.com/JM1k1)
