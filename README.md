@@ -13,6 +13,8 @@ class TWISTX7:
     def __init__(self):
         self.name = "TWISTX7"
         self.role = "Python Dev"
+        self.language = ["Python" ,"Javascript"]
+        self.language_learning = ["C#", "Go"]
         self.language_spoken = ["fr_FR", "en_US", "ar_AR",]
     def say_hi(self):
         print("Hope you find some of my work interesting.")
