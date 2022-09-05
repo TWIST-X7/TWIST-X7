@@ -3,7 +3,6 @@
 #
 <p align=center>
 <a href="https://discord.com/users/833293196665815062">
-<img src="https://discord.c99.nl/widget/theme-4/833293196665815062.png" width=60%>
 </a>
   </p>
 <p align=center>
